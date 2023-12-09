@@ -1,4 +1,4 @@
-#Headache Expert System
+# Headache Expert System
 
 1. Problem in brief
 Inadequate knowledge and awareness among individuals regarding different types of 
